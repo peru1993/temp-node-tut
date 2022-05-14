@@ -12,7 +12,7 @@
 //     console.log('hello world')
 // }, 1000)
 
-// Global 
+// Global
 
 // console.log(__dirname);
 // console.log(__filename);
@@ -31,6 +31,5 @@ sayhi1(names.sathish)
 sayhi1(names.nakul)
 sayhi1(names.secret)
 console.log(data)
-
 
 
